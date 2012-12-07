@@ -1,0 +1,2 @@
+module Jadu
+end
